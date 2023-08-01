@@ -53,6 +53,7 @@ class Cube:
 
     def __call__(self,alg):
         moves = []
+        alg = alg.replace(" ","")
         for move in alg:
             if move == "'" or move == "2":
                 moves[-1] += move
@@ -83,9 +84,16 @@ class Cube:
         self.orientation = {"U":top,"F":front,"R":dummy[dummy.index(top)-1],"D":opposites[top],"B":opposites[front]}
         self.orientation["L"] = opposites[self.orientation["R"]]
 
+    def checksolved(self):
+        for face in list(self.faces.values()):
+            if face.colors.var() != 0:
+                return False
+        return True
+
 
 B = Cube()
-B("RUR'U'R'FR2U'R'U'RUR'F'")
+print(B.checksolved())
+B("R' U' F' R U R' U' R' F R2 U' R' U' R U R' U R")
 #B("RU")
 for face in list(B.faces.values()):
     print(decode(face.centercolor))
