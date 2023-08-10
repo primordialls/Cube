@@ -1,0 +1,4 @@
+S_URF3=((c:URF;o:1),(c:DFR;o:2),(c:DLF;o:1),(c:UFL;o:2),(c:UBR;o:2),(c:DRB;o:1),(c:DBL;o:2),(c:ULB;o:1))
+S_F2=((c:DLF;o:0),(c:DFR;o:0),(c:DRB;o:0),(c:DBL;o:0),(c:UFL;o:0),(c:URF;o:0),(c:UBR;o:0),(c:ULB;o:0))
+S_U4=((c:UBR;o:0),(c:URF;o:0),(c:UFL;o:0),(c:ULB;o:0),(c:DRB;o:0),(c:DFR;o:0),(c:DLF;o:0),(c:DBL;o:0))
+S_LR2=((c:UFL;o:3),(c:URF;o:3),(c:UBR;o:3),(c:ULB;o:3),(c:DLF;o:3),(c:DFR;o:3),(c:DRB;o:3),(c:DBL;o:3))

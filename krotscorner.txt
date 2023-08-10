@@ -1,0 +1,7 @@
+I:[(URF),(UFL),(ULB),(UBR),(DFR),(DLF),(DBL),(DRB)]
+U:[(c:UBR;o:0),(c:URF;o:0),(c:UFL;o:0),(c:ULB;o:0),(c:DFR;o:0),(c:DLF;o:0),(c:DBL;o:0),(c:DRB;o:0)]
+R:[(c:DFR;o:2),(c:UFL;o:0),(c:ULB;o:0),(c:URF;o:1),(c:DRB;o:1),(c:DLF;o:0),(c:DBL;o:0),(c:UBR;o:2)]
+F:[(c:UFL;o:1),(c:DLF;o:2),(c:ULB;o:0),(c:UBR;o:0),(c:URF;o:2),(c:DFR;o:1),(c:DBL;o:0),(c:DRB;o:0)]
+D:[(c:URF;o:0),(c:UFL;o:0),(c:ULB;o:0),(c:UBR;o:0),(c:DLF;o:0),(c:DBL;o:0),(c:DRB;o:0),(c:DFR;o:0)]
+L:[(c:URF;o:0),(c:ULB;o:1),(c:DBL;o:2),(c:UBR;o:0),(c:DFR;o:0),(c:UFL;o:2),(c:DLF;o:1),(c:DRB;o:0)]
+B:[(c:URF;o:0),(c:UFL;o:0),(c:UBR;o:1),(c:DRB;o:2),(c:DFR;o:0),(c:DLF;o:0),(c:ULB;o:2),(c:DBL;o:1)]

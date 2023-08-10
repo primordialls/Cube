@@ -1,0 +1,4 @@
+S_URF3=((e:UF;o:1;oA:0),(e:FR;o:0;oA:0),(e:DF;o:1;oA:0),(e:FL;o:0;oA:0),(e:UB;o:1;oA:0),(e:BR;o:0;oA:0),(e:DB;o:1;oA:0),(e:BL;o:0;oA:0),(e:UR;o:1;oA:0),(e:DR;o:1;oA:0),(e:DL;o:1;oA:0),(e:UL;o:1;oA:0))
+S_F2=((e:DL;o:0;oA:0),(e:DF;o:0;oA:0),(e:DR;o:0;oA:0),(e:DB;o:0;oA:0),(e:UL;o:0;oA:0),(e:UF;o:0;oA:0),(e:UR;o:0;oA:0),(e:UB;o:0;oA:0),(e:FL;o:0;oA:0),(e:FR;o:0;oA:0),(e:BR;o:0;oA:0),(e:BL;o:0;oA:0))
+S_U4=((e:UB;o:0;oA:1),(e:UR;o:0;oA:1),(e:UF;o:0;oA:1),(e:UL;o:0;oA:1),(e:DB;o:0;oA:1),(e:DR;o:0;oA:1),(e:DF;o:0;oA:1),(e:DL;o:0;oA:1),(e:BR;o:1;oA:1),(e:FR;o:1;oA:1),(e:FL;o:1;oA:1),(e:BL;o:1;oA:1))
+S_LR2=((e:UL;o:0;oA:0),(e:UF;o:0;oA:0),(e:UR;o:0;oA:0),(e:UB;o:0;oA:0),(e:DL;o:0;oA:0),(e:DF;o:0;oA:0),(e:DR;o:0;oA:0),(e:DB;o:0;oA:0),(e:FL;o:0;oA:0),(e:FR;o:0;oA:0),(e:BR;o:0;oA:0),(e:BL;o:0;oA:0))
